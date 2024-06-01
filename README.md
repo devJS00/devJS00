@@ -6,7 +6,6 @@
 + 아이디어를 내고 무언가를 만들어 내는 일을 즐깁니다.
 + 제가 즐기면서 공부하고 일할 수 있는 분야를 찾기 위해 다양한 도전을 하고 있는 중입니다.
 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=abcde-veloper&theme=tistory)](https://abcde-veloper.tistory.com/)
 
 ## 🛠️ Tech Stack
 ### 🌳 Experienced
