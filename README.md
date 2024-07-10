@@ -1,4 +1,5 @@
 ## Hi there👋, I'm Jisu Lee
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FdevJS00&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 - majoring in Computer science & Engineering, Chung-Ang University (2021.3. ~ )
 
 <br>
@@ -50,7 +51,7 @@
 
 <br>
 
-## 🏆 Award
+## 🏆 Awards
 - 2023 CAU LINC3.0 캡스톤디자인 경진대회 창업 부문 본선 진출 및 장려상
 - 2024 Google Solution Challenge Global Top 100
 - 2024 CAU LINC3.0 캡스톤디자인 경진대회 창업·로컬 부문 본선 진출 및 인기상
