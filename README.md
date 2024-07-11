@@ -12,7 +12,7 @@
 
 ## 🪂 Experience
 - [GDSC(Google Developer Student Clubs) CAU](https://gdsc-cau.com) 2nd Member (2023.4. ~ 2023.8.)
-- [GDSC(Google Developer Student Clubs) CAU](https://gdsc-cau.com) 3rd Core Member (2023.9. ~ 2024.8)
+- [GDSC(Google Developer Student Clubs) CAU](https://gdsc-cau.com) 3rd Core Member & Devrel (2023.9. ~ 2024.8)
 
 <br>
 
