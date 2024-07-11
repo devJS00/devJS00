@@ -1,10 +1,23 @@
 ## Hi there👋, I'm Jisu Lee
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FdevJS00&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-- majoring in Computer science & Engineering, Chung-Ang University (2021.3. ~ )
+- majoring in Computer Science & Engineering, Chung-Ang University (2021.3. ~ )
 
 <br>
 
-## 🛠️ Tech Stack
+## 🪂 Experience
+- [GDSC(Google Developer Student Clubs) CAU](https://gdsc-cau.com) 2nd Member (2023.4. ~ 2023.8.)
+- [GDSC(Google Developer Student Clubs) CAU](https://gdsc-cau.com) 3rd Core Member (2023.9. ~ 2024.8)
+
+<br>
+
+## 🏆 Awards
+- 2023 CAU LINC3.0 캡스톤디자인 경진대회 본선 진출 및 장려상
+- 2024 Google Solution Challenge Global Top 100
+- 2024 CAU LINC3.0 캡스톤디자인 경진대회 창업·로컬 부문 본선 진출 및 인기상
+
+<br>
+
+## 🦾 Tech Stack
 ### 🌳 Experienced
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
 
@@ -29,32 +42,21 @@
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
 
-### 💡IDE
+### 🪄 IDE
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=flat&logo=Eclipse&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat&logo=android-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=visual-studio&logoColor=white)
 
-### 🔧 Tools
+### 🛠️ Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 
-<br>
 
-## 🪂 Experience
-- [GDSC(Google Developer Student Clubs) CAU](https://gdsc-cau.com) 2nd Member (2023.4. ~ 2023.8.)
-- [GDSC(Google Developer Student Clubs) CAU](https://gdsc-cau.com) 3rd Core Member (2023.9. ~ 2024.8)
-
-<br>
-
-## 🏆 Awards
-- 2023 CAU LINC3.0 캡스톤디자인 경진대회 본선 진출 및 장려상
-- 2024 Google Solution Challenge Global Top 100
-- 2024 CAU LINC3.0 캡스톤디자인 경진대회 창업·로컬 부문 본선 진출 및 인기상
 
 <br>
 
