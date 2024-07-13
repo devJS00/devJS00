@@ -6,20 +6,20 @@
 
 </div>
 
-- majoring in Computer Science & Engineering, Chung-Ang University (2021.3. ~ )
+- majoring in Computer Science & Engineering, Chung-Ang University [2021.3. ~ ]
 
 <br>
 
 ## 🪂 Experience
-- [GDSC(Google Developer Student Clubs) CAU](https://gdsc-cau.com) 2nd Member (2023.4. ~ 2023.8.)
-- [GDSC(Google Developer Student Clubs) CAU](https://gdsc-cau.com) 3rd Core Member & Devrel (2023.9. ~ 2024.8)
+- [GDSC(Google Developer Student Clubs) CAU](https://gdsc-cau.com) 2nd Member [2023.4. ~ 2023.8.]
+- [GDSC(Google Developer Student Clubs) CAU](https://gdsc-cau.com) 3rd Core Member & Devrel [2023.9. ~ 2024.8]
 
 <br>
 
 ## 🏆 Awards
-- 2023 CAU LINC3.0 캡스톤디자인 경진대회 본선 진출 및 장려상 (2023.12.8)
-- 2024 Google Solution Challenge Global Top 100 (2024.4.6)
-- 2024 CAU LINC3.0 캡스톤디자인 경진대회 창업·로컬 부문 본선 진출 및 인기상 (2024.6.4)
+- 2023 CAU LINC3.0 캡스톤디자인 경진대회 본선 진출 및 장려상 [2023.12.8]
+- 2024 Google Solution Challenge Global Top 100 [2024.4.6]
+- 2024 CAU LINC3.0 캡스톤디자인 경진대회 창업·로컬 부문 본선 진출 및 인기상 [2024.6.4]
 
 <br>
 
