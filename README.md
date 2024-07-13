@@ -17,9 +17,9 @@
 <br>
 
 ## 🏆 Awards
-- 2023 CAU LINC3.0 캡스톤디자인 경진대회 본선 진출 및 장려상
-- 2024 Google Solution Challenge Global Top 100
-- 2024 CAU LINC3.0 캡스톤디자인 경진대회 창업·로컬 부문 본선 진출 및 인기상
+- 2023 CAU LINC3.0 캡스톤디자인 경진대회 본선 진출 및 장려상 (2023.12.8)
+- 2024 Google Solution Challenge Global Top 100 (2024.4.6)
+- 2024 CAU LINC3.0 캡스톤디자인 경진대회 창업·로컬 부문 본선 진출 및 인기상 (2024.6.4)
 
 <br>
 
