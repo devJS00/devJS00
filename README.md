@@ -70,7 +70,7 @@
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devJS00&layout=compact"><br><br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=devJS00)](https://solved.ac/devJS00/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=unknown00)](https://solved.ac/unknown00/)
 
 
 
